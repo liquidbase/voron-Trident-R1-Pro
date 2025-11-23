@@ -11,3 +11,8 @@ Where possible, corresponding build videos are also included in the readme. When
 # Configlog
 
 # Filelog
+
+2025-11-23 Added shopping list
+2025-11-23 Added first 3mf
+2025-11-23 Added print files
+2025-11-23 Added readme.md
