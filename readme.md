@@ -1,4 +1,4 @@
-# voron v2.4 R2 Pro
+# voron Trident R1 Pro
 
 Buildlog of voron Trident R1 Pro from start to finish with all modifications and finally INDX from Bondtech.
 
