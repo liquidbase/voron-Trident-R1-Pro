@@ -8,10 +8,16 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-11-28 Framebuild mostly done
+
 # Configlog
 
 # Filelog
 
+2025-11-28 Update shopping list
+2025-11-28 Added doc for Manta M8P v2
+2025-11-28 Added docs for Trident (Formbot)
+2025-11-28 Update 3mf
 2025-11-23 Added shopping list
 2025-11-23 Added first 3mf
 2025-11-23 Added print files
