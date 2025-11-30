@@ -8,12 +8,20 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-11-30 Bedmount
+2025-11-30 XY-Assembly
+2025-11-30 Z-Assembly
+2025-11-30 Frontidler
+2025-11-30 A/B Drives
 2025-11-28 Framebuild mostly done
 
 # Configlog
 
 # Filelog
 
+2025-11-28 Added printfile for corner bracket
+2025-11-28 Added printfiles for Dragon Burner Carriage with Cartographer Mount
+2025-11-28 Added printfiles for Dragon Burner
 2025-11-28 Update shopping list
 2025-11-28 Added doc for Manta M8P v2
 2025-11-28 Added docs for Trident (Formbot)
