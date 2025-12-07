@@ -8,6 +8,11 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-12-06 Part 3 of EBay (Cables)
+2025-12-05 Part 2 of EBay (M8P & PSU)
+2025-12-04 Part 1 of EBay (Layout)
+2025-12-03 Build beltpath and carriage
+2025-12-02 Build fanblocks for skirts
 2025-11-30 Bedmount
 2025-11-30 XY-Assembly
 2025-11-30 Z-Assembly
@@ -16,6 +21,8 @@ Where possible, corresponding build videos are also included in the readme. When
 2025-11-28 Framebuild mostly done
 
 # Configlog
+
+2025-12-06 Preparing SDCard with MainsailOS
 
 # Filelog
 
