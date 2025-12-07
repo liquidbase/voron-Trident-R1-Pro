@@ -8,6 +8,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-12-07 Added Backpanel
 2025-12-06 Part 3 of EBay (Cables)
 2025-12-05 Part 2 of EBay (M8P & PSU)
 2025-12-04 Part 1 of EBay (Layout)
