@@ -23,10 +23,15 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Configlog
 
+2025-12-12 Added config to git
+2025-12-12 klipper-screen installed
+2025-12-12 klipper-backup installed
+2025-12-12 KIAUH installed
 2025-12-06 Preparing SDCard with MainsailOS
 
 # Filelog
 
+2025-12-12 Update printfiles
 2025-11-28 Added printfile for corner bracket
 2025-11-28 Added printfiles for Dragon Burner Carriage with Cartographer Mount
 2025-11-28 Added printfiles for Dragon Burner
