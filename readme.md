@@ -8,6 +8,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-12-15 Rebuild Toolhead
 2025-12-14 Rebuild EBay
 2025-12-07 Added Backpanel
 2025-12-06 Part 3 of EBay (Cables)
@@ -24,6 +25,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Configlog
 
+2025-12-15 added canbus-uuid for toolhead
 2025-12-12 Added config to git
 2025-12-12 klipper-screen installed
 2025-12-12 klipper-backup installed
@@ -32,6 +34,9 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Filelog
 
+2025-12-15 Added image of uuid for docs
+2025-12-15 Added pinout for EBB36
+2025-12-15 Added thermistor mount
 2025-12-15 Update misc_assembly
 2025-12-15 Added printfiles for cable tie mount and front usb connector
 2025-12-12 Update printfiles
