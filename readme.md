@@ -8,6 +8,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Buildlog
 
+2025-12-14 Rebuild EBay
 2025-12-07 Added Backpanel
 2025-12-06 Part 3 of EBay (Cables)
 2025-12-05 Part 2 of EBay (M8P & PSU)
@@ -31,6 +32,8 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Filelog
 
+2025-12-15 Update misc_assembly
+2025-12-15 Added printfiles for cable tie mount and front usb connector
 2025-12-12 Update printfiles
 2025-11-28 Added printfile for corner bracket
 2025-11-28 Added printfiles for Dragon Burner Carriage with Cartographer Mount
