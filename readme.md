@@ -25,6 +25,8 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Configlog
 
+2025-12-15 Cartographer installed
+2025-12-15 Added config for A, B, Z0, Z1, Z2-Motor, thermistor
 2025-12-15 added canbus-uuid for toolhead
 2025-12-12 Added config to git
 2025-12-12 klipper-screen installed
@@ -34,6 +36,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Filelog
 
+2025-12-15 Added printfiles for cartographer
 2025-12-15 Added image of uuid for docs
 2025-12-15 Added pinout for EBB36
 2025-12-15 Added thermistor mount
