@@ -25,6 +25,8 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Configlog
 
+2025-12-16 Added print_start
+2025-12-15 Finished config (motors, heater, bed mesh)
 2025-12-15 Cartographer installed
 2025-12-15 Added config for A, B, Z0, Z1, Z2-Motor, thermistor
 2025-12-15 added canbus-uuid for toolhead
@@ -36,6 +38,8 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Filelog
 
+2025-12-16 Update misc_assembly
+2025-12-16 Added umbilical plate
 2025-12-15 Added printfiles for cartographer
 2025-12-15 Added image of uuid for docs
 2025-12-15 Added pinout for EBB36
