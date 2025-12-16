@@ -25,6 +25,7 @@ Where possible, corresponding build videos are also included in the readme. When
 
 # Configlog
 
+2025-12-16 Finished Config
 2025-12-16 Added print_start
 2025-12-15 Finished config (motors, heater, bed mesh)
 2025-12-15 Cartographer installed
